@@ -1,5 +1,6 @@
 # Create a branch
 Discuss and review your code
+![Moja_grafika](https://git-lfs.github.com/images/facebook-promo.png "Title")
 # Add commits
 Once your branch has been created, it's time to start making changes. 
 # Open a Pull Request
